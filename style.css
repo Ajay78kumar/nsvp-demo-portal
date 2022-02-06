@@ -1,0 +1,65 @@
+body{
+    background-color: #D9D7F1;
+}
+div{
+    background-color: rgb(20, 22, 141);
+    padding: 20px;    
+}
+a{
+    position: relative;
+    left: 45%;
+    padding: 10px;
+    color: beige;
+}
+.voter{
+    background-color: #D9D7F1;
+}
+h3{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-top: 0px;
+}
+footer{
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    padding: 13px;
+
+
+}
+h4{
+    font-size: 20px;
+    position: relative;
+    margin-top: 0px;
+}
+.state{
+    position: relative;
+    left: 0px;
+}
+#state,#Number,#Email{
+    position: relative;
+    left: 20px;
+}
+#District{
+    position: relative;
+    left: 30%;
+}
+.name{
+    position: relative;
+    left: 29%;
+}
+.my{
+    position: relative;
+    left: 10px;
+}
+.other{
+    position: relative;
+    left: 20px;
+}
+#other{
+    position: relative;
+    left: 30px;
+}
+
+
+   
